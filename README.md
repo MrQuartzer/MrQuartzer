@@ -1,5 +1,5 @@
 ## Hi I'm Nantawat, Welcome to my Github profile 👋
-
+I am a software engineer
 <!--
 **MrQuartzer/MrQuartzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
