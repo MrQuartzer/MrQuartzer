@@ -1,7 +1,6 @@
 ## ***Hi I'm Nantawat (Yai), Welcome to my Github profile*** 👋
 
-- 🌱 I’m currently learning **React**
-- 📫 How to reach me **nantawat_yai@hotmail.com**
+- 🌱 I’m currently learning **Flutter, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
