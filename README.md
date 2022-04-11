@@ -1,5 +1,6 @@
 ## ***Hi I'm Nantawat (Yai), Welcome to my Github profile*** 👋
 
+- 👯 I’m looking to collaborate on front-end developer, back-end developer, web developer or mobile developer
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **nantawat_yai@hotmail.com**
 
